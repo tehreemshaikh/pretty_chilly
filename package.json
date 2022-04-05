@@ -55,11 +55,6 @@
     "files": [
       "build/**/*",
       "node_modules/**/*"
-    ],
-    "publish": {
-      "provider": "github",
-      "repo": "electron-cra-example",
-      "owner": "johndyer24"
-    }
+    ]
   }
 }
